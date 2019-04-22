@@ -6,7 +6,7 @@ It includes two parts：
 
 - CIFAR_KNN.ipynb
 - CIFAR_CNN.ipynb
-
+- The Comments in the Jupyter Notebook was written in Mandrin for the time being, I will update to English version later.
 # Version
 ```Python3`` and```TensorFlow 1.0```
 
